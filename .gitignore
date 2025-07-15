@@ -1,0 +1,31 @@
+# MARS MIPS Simulator files
+*.jar
+Mars*.jar
+
+# Assembly build artifacts
+*.obj
+*.o
+*.exe
+
+# Editor and IDE files
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Documentation build files
+docs/_build/
+*.pdf
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Log files
+*.log
+
+# Performance profiling output
+profile_*.txt
+benchmark_*.csv
