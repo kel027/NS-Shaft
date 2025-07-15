@@ -77,10 +77,8 @@ java -jar Mars.jar src/v0.asm
 ## Technical Documentation
 
 - [**Architecture Overview**](docs/architecture.md) - System design and component interaction
-- [**Performance Analysis**](docs/performance.md) - Instruction counts and optimization details
 - [**Custom Syscalls**](docs/syscalls.md) - Game engine API documentation
 - [**Memory Layout**](analysis/memory_layout.md) - Data structure organization
-- [**Optimization Notes**](analysis/optimization_notes.md) - Performance tuning techniques
 
 ## Code Quality Features
 
